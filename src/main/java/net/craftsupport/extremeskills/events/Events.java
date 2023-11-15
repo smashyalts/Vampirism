@@ -16,10 +16,10 @@ public class Events implements Listener {
             @Override
             public void run() {
                 for (Player player : Bukkit.getOnlinePlayers()) {
-                    player.setExhaustion(20);
+                    player.setExhaustion(10000);
                 }
             }
-        }, 60L);
+        }, 100L);
 
     }
 

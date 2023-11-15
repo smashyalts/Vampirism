@@ -111,3 +111,26 @@ buildNumber.properties
 
 # Common working directory
 run/
+/world_the_end/
+/cache/
+/usercache.json
+/world_nether/
+/whitelist.json
+/paper-1.20.2-291.jar
+/server.properties
+/help.yml
+/logs/
+/version_history.json
+/commands.yml
+/.gitignore
+/spigot.yml
+/permissions.yml
+/libraries/
+/ops.json
+/banned-players.json
+/banned-ips.json
+/bukkit.yml
+/config/
+/world/
+/versions/
+/eula.txt
