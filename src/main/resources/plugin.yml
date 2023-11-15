@@ -1,0 +1,4 @@
+name: ExtremeSkills
+version: '${project.version}'
+main: net.craftsupport.extremeskills.ExtremeSkills
+api-version: '1.13'
